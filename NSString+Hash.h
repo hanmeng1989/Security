@@ -1,9 +1,9 @@
 //
 //  NSString+Hash.h
-//  01-网络安全
+//  网络安全
 //
-//  Created by 黄伟 on 14/11/12.
-//  Copyright (c) 2014年 itcast. All rights reserved.
+//  Created by 韩萌 on 14/11/12.
+//  Copyright (c) 2014年 hanmeng. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
